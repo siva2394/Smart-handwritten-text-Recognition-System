@@ -1,0 +1,1 @@
+# Smart-handwritten-text-Recognition-System
